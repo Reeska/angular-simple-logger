@@ -2,7 +2,7 @@
   "name": "angular-simple-logger",
   "version": "0.1.7",
   "description": "Basic logger with level logging which can also be independent.",
-  "main": "./dist/index.js",
+  "main": "./dist/index.light.js",
   "scripts": {
     "start": "gulp",
     "test": "gulp spec"
